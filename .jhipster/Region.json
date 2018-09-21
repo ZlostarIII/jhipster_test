@@ -1,0 +1,21 @@
+{
+    "name": "Region",
+    "fields": [
+        {
+            "fieldName": "regionName",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20180919140008",
+    "entityTableName": "region",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "jhDemo",
+    "applications": "*",
+    "angularJSSuffix": "mySuffix",
+    "microserviceName": "jhDemo"
+}

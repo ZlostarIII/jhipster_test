@@ -218,10 +218,10 @@
             <artifactId>cache-api</artifactId>
         </dependency>
         <!-- more information at https://blogs.oracle.com/dev2dev/entry/how_to_get_oracle_jdbc -->
-        <dependency>
+<!--         <dependency>
             <groupId>com.oracle.jdbc</groupId>
             <artifactId>ojdbc8</artifactId>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
